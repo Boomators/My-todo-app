@@ -1,0 +1,7 @@
+get grocery
+get pizza
+help mom
+hello
+get help 
+go
+do the dishes
